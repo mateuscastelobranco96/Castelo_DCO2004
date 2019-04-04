@@ -2,4 +2,4 @@
 
 Entregáveis do hands on 3 em Matlab e Python: http://localhost:8888/notebooks/Entrega%203%20(Matlab%20e%20Python).ipynb#
 
-Entregáveis do hands on 2:
+Entregáveis do hands on 2: http://localhost:8888/notebooks/Entrega%202.ipynb
