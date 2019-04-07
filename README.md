@@ -28,6 +28,8 @@ D02: Cadastramento e criação de repositório no Github.:
 D03: Construção do arquivo Pratica01.ipynb:
 * [Pratica01](http://localhost:8888/notebooks/Pratica1.ipynb)
 
-D04: Construção do arquivo testMatlab.ipynb
+D04: Construção do arquivo testMatlab.ipynb:
+
+* [testMatlab](http://localhost:8888/notebooks/testeMatlab.ipynb#)
 
 Os demais entregáveis serão entregues em breve. (Visto que havia passado desapercebido pelos tutoriais de como usar o repositório git e não os havia upado antes, estando apenas em meu computador).
