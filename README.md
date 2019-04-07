@@ -13,7 +13,8 @@ D01:Discussão do Passo 08 da Prática 01: Ambiente de edição
 
 D02: Passo 03 da Prática 02: Ambiente de depuração (debug) 
 ![debug](http://oi64.tinypic.com/6jkp4z.jpg)
-pela imagem podemos perceber que no navegador de variáveis só foram criadas as variáveis 'f', 's', e 't', sendo as demais linhas de comando (a partir da linha 5)não executadas.
+
+Pela imagem podemos perceber que, no "Workspace" (canto inferior esquerdo),só foram criadas as variáveis 'f', 's', e 't', sendo as demais linhas de comando (a partir da linha 5) não executadas.
 
 *[Código para debug](http://localhost:8888/notebooks/Debug.ipynb)
 
