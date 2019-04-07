@@ -16,7 +16,7 @@ D02: Passo 03 da Prática 02: Ambiente de depuração (debug)
 
 Pela imagem podemos perceber que, no "Workspace" (canto inferior esquerdo),só foram criadas as variáveis 'f', 's', e 't', sendo as demais linhas de comando (a partir da linha 5) não executadas.
 
-*[Código para debug](http://localhost:8888/notebooks/Debug.ipynb)
+* [Código para debug](http://localhost:8888/notebooks/Debug.ipynb)
 
 D03: Realizar a Prática 03: Tempo de execução com uso de laço e com operação matricial no Matlab, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal
 
