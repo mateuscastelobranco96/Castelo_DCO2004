@@ -21,7 +21,7 @@ D01: Criação de máquina virtual: (link para imagem printada)
 
 D02: Cadastramento e criação de repositório no Github. https://github.com/mateuscastelobranco96/Castelo_DCO2004
 
-D03: Construção do arquivo Pratica01.ipynb
+D03: Construção do arquivo Pratica01.ipynb *[Pratica01](http://localhost:8888/notebooks/Pratica1.ipynb)
 
 D04: Construção do arquivo testMatlab.ipynb
 
