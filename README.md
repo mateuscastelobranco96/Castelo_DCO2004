@@ -8,9 +8,14 @@
 
 ## Entregáveis do hands on 1: 
 
-D01:Discussão do Passo 08 da Prática 01: Ambiente de edição
+D01:Discussão do Passo 08 da Prática 01: Ambiente de edição 
+* [Variáveis](http://localhost:8888/notebooks/Vari%C3%A1veis.ipynb)
 
-D02: Passo 03 da Prática 02: Ambiente de depuração (debug)
+D02: Passo 03 da Prática 02: Ambiente de depuração (debug) 
+![debug](http://oi64.tinypic.com/6jkp4z.jpg)
+pela imagem podemos perceber que no navegador de variáveis só foram criadas as variáveis 'f', 's', e 't', sendo as demais linhas de comando (a partir da linha 5)não executadas.
+
+*[Código para debug](http://localhost:8888/notebooks/Debug.ipynb)
 
 D03: Realizar a Prática 03: Tempo de execução com uso de laço e com operação matricial no Matlab, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal
 
