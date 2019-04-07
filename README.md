@@ -19,11 +19,14 @@ D04: Realizar a _Prática 03: Tempo de execução com uso de laço e com operaç
 
 ## Entregáveis do hands on 0: 
 
-D01: Criação de máquina virtual: (link para imagem printada)
+D01: Criação de máquina virtual:
+![Print da Criação da Máquina Virtual](http://localhost:8888/view/Imagens/Captura%20de%20tela%20de%202019-04-07%2016-44-21.png)
 
-D02: Cadastramento e criação de repositório no Github. https://github.com/mateuscastelobranco96/Castelo_DCO2004
+D02: Cadastramento e criação de repositório no Github.:
+* [Repositório](https://github.com/mateuscastelobranco96/Castelo_DCO2004)
 
-D03: Construção do arquivo Pratica01.ipynb * [Pratica01](http://localhost:8888/notebooks/Pratica1.ipynb)
+D03: Construção do arquivo Pratica01.ipynb:
+* [Pratica01](http://localhost:8888/notebooks/Pratica1.ipynb)
 
 D04: Construção do arquivo testMatlab.ipynb
 
