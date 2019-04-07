@@ -20,7 +20,7 @@ D04: Realizar a _Prática 03: Tempo de execução com uso de laço e com operaç
 ## Entregáveis do hands on 0: 
 
 D01: Criação de máquina virtual:
-![Print da Criação da Máquina Virtual](http://localhost:8888/view/Imagens/Captura%20de%20tela%20de%202019-04-07%2016-44-21.png)
+![Print da Criação da Máquina Virtual](http://oi65.tinypic.com/15q7p0i.jpg)
 
 D02: Cadastramento e criação de repositório no Github.:
 * [Repositório](https://github.com/mateuscastelobranco96/Castelo_DCO2004)
