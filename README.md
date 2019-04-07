@@ -1,10 +1,10 @@
 # Castelo_DCO2004
 
-Entregáveis do hands on 3 em Matlab e Python: http://localhost:8888/notebooks/Entrega%203%20(Matlab%20e%20Python).ipynb#
+##Entregáveis do hands on 3 em Matlab e Python: http://localhost:8888/notebooks/Entrega%203%20(Matlab%20e%20Python).ipynb#
 
-Entregáveis do hands on 2: http://localhost:8888/notebooks/Entrega%202.ipynb
+##Entregáveis do hands on 2: http://localhost:8888/notebooks/Entrega%202.ipynb
 
-Entregáveis do hands on 1: 
+##Entregáveis do hands on 1: 
 
 D01: Discussão do Passo 08 da Prática 01: Ambiente de edição
 
@@ -15,7 +15,7 @@ D03: Realizar a Prática 03: Tempo de execução com uso de laço e com operaç�
 D04: Realizar a _Prática 03: Tempo de execução com uso de laço e com operação matricial_no Python, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal
 
 
-Entregáveis do hands on 0: 
+##Entregáveis do hands on 0: 
 
 D01: Criação de máquina virtual: (link para imagem printada)
 
