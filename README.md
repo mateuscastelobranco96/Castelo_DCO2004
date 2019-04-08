@@ -22,7 +22,7 @@ D03: Realizar a Prática 03: Tempo de execução com uso de laço e com operaç�
 * [Código para prática](http://localhost:8888/notebooks/Entrega1_3.ipynb)
 
 D04: Realizar a _Prática 03: Tempo de execução com uso de laço e com operação matricial_no Python, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal:
-* [Código para prática](http://localhost:8888/notebooks/Entrega1_3.ipynb)
+* [Código para prática](http://localhost:8888/notebooks/Entrega1_4.ipynb)
 
 ## Entregáveis do hands on 0: 
 
