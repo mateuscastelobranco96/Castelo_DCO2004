@@ -1,7 +1,7 @@
 # Castelo_DCO2004
 
 ## Entregáveis do hands on 3 em Matlab e Python: 
-* [Entrega 3](http://localhost:8888/notebooks/Entrega%203%20(Matlab%20e%20Python).ipynb#)
+* [Entrega 3](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%203%20%28Matlab%20e%20Python%29.ipynb)
 
 ## Entregáveis do hands on 2: 
 
@@ -31,7 +31,7 @@ D02: Passo 03 da Prática 02: Ambiente de depuração (debug)
 
 Pela imagem podemos perceber que, no "Workspace" (canto inferior esquerdo),só foram criadas as variáveis 'f', 's', e 't', sendo as demais linhas de comando (a partir da linha 5) não executadas.
 
-* [Entrega1_2:Código para debug](http://localhost:8888/notebooks/Debug.ipynb)
+* [Entrega1_2:Código para debug](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Debug.ipynb)
 
 D03: Realizar a Prática 03: Tempo de execução com uso de laço e com operação matricial no Matlab, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal:
 * [Entrega1_3:Código para prática](http://localhost:8888/notebooks/Entrega1_3.ipynb)
@@ -52,6 +52,6 @@ D03: Construção do arquivo Pratica01.ipynb:
 
 D04: Construção do arquivo testMatlab.ipynb:
 
-* [Entrega0_4:testMatlab](http://localhost:8888/notebooks/testeMatlab.ipynb#)
+* [Entrega0_4:testMatlab](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/testeMatlab.ipynb)
 
 Os demais entregáveis serão entregues em breve. (Visto que havia passado desapercebido pelos tutoriais de como usar o repositório git e não os havia upado antes, estando apenas em meu computador).
