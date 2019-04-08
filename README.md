@@ -8,6 +8,7 @@
 D01: Interface gráfica utilizando recursos do GUI (Graphical User Interface) do Matlab para criar um instrumento musical (um piano digital) com oito notas:
 
 * [Entrega2_1](http://localhost:8888/notebooks/Entrega%202.ipynb)
+* [Entrega2_1](http://localhost:8888/notebooks/Entrega2_1.ipynb)
 
 D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música:
 
