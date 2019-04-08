@@ -4,6 +4,17 @@
 * [Entrega 3](http://localhost:8888/notebooks/Entrega%203%20(Matlab%20e%20Python).ipynb#)
 
 ## Entregáveis do hands on 2: 
+
+D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música:
+
+* [Entrega2](http://localhost:8888/notebooks/Entrega2_2.ipynb)
+
+D03: Passo 5 Prática 1: Geração, reprodução e plotagem de um tom de áudio:
+
+* [Entrega2](http://localhost:8888/notebooks/Entrega%202.ipynb)
+
+D04: Passo 5 Prática 2: Abrindo e reproduzindo arquivos de música:
+
 * [Entrega2](http://localhost:8888/notebooks/Entrega%202.ipynb)
 
 ## Entregáveis do hands on 1: 
