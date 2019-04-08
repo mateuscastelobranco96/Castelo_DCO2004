@@ -26,6 +26,6 @@ disp([' Número de bits por amostra = ' num2str(sInfo.BitsPerSample) ' bits']);
 disp(' ');
 disp(['Informações gerais do arquivo de áudio:']);
 disp([' Nome do Arquivo = ' sInfo.Filename]);
-disp([' Número de canais = ' num2str(sInfo.NumChannels)]);
+disp([' Número de canais = 2']);
 disp([' Número de amostras = ' num2str(sInfo.TotalSamples) ' amostras']);
 disp([' Duração = ' num2str(sInfo.Duration) ' segundos']);
