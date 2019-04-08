@@ -7,7 +7,7 @@
 
 D01: Interface gráfica utilizando recursos do GUI (Graphical User Interface) do Matlab para criar um instrumento musical (um piano digital) com oito notas:
 
-* [Entrega2_1](http://localhost:8888/notebooks/Entrega2_2.ipynb)
+* [Entrega2_1](http://localhost:8888/notebooks/Entrega%202.ipynb)
 
 D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música:
 
@@ -15,11 +15,11 @@ D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música:
 
 D03: Passo 5 Prática 1: Geração, reprodução e plotagem de um tom de áudio:
 
-* [Entrega2_3](http://localhost:8888/notebooks/Entrega%202.ipynb)
+* [Entrega2_3](http://localhost:8888/notebooks/Entrega2_3.ipynb)
 
 D04: Passo 5 Prática 2: Abrindo e reproduzindo arquivos de música:
-
-* [Entrega2_4](http://localhost:8888/notebooks/Entrega%202.ipynb)
+http://localhost:8888/notebooks/Entrega2_4.ipynb
+* [Entrega2_4](http://localhost:8888/notebooks/Entrega2_4.ipynb)
 
 ## Entregáveis do hands on 1: 
 
