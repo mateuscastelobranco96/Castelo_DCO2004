@@ -55,3 +55,4 @@ D03: Construção do arquivo Pratica01.ipynb:
 D04: Construção do arquivo testMatlab.ipynb:
 
 * [Entrega0_4:testMatlab](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/testeMatlab.ipynb)
+.
