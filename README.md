@@ -6,15 +6,15 @@
 
 D01: Passos 3 e 4 da Prática 1: Modulação AM-DSB. 
 
-* [Entrega 5_1](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%203%20%28Matlab%20e%20Python%29.ipynb)
+* [Entrega 5_1](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%205.ipynb)
 
 D02: Passo 3 da Prática 2: recepção AM-DSB (detecção de envoltória). 
 
-* [Entrega 5_2](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%203%20%28Matlab%20e%20Python%29.ipynb)
+* [Entrega 5_2](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%205.ipynb)
 
 D03: Passo 3 da Prática 8: Sinal analítico, Transformada de Hilbert e seu uso em demodulação.
 
-* [Entrega 5_3](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%203%20%28Matlab%20e%20Python%29.ipynb)
+* [Entrega 5_3] em finalização...
 
 ## Entregáveis do hands on 3 em Matlab e Python: 
 * [Entrega 3](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%203%20%28Matlab%20e%20Python%29.ipynb)
