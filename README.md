@@ -11,7 +11,7 @@ D02: Prática 3: Quantização.
 * [Entrega 6_2](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%206.ipynb)
 
 D03:Prática 4: Multiplexação e demultiplexação (TDM). 
-* [Entrega 6_3] (https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%206.ipynb)
+* [Entrega 6_3](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%206.ipynb)
 
 
 ## Entregáveis do hands on 5: 
