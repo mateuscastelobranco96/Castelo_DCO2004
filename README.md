@@ -1,6 +1,18 @@
 # Castelo_DCO2004
 
-## Os entregáveis que antes referenciavam para o "localhost/8888" agora estão alocados para os correspondentes links do NBViewer, e acredito que agora estejam aptos a vizualização remota.
+## Os entregáveis dos handsons 5 e 6 apresentam apenas o código bruto com os resultados requeridos, sem muito tratamento das informações, sendo necessário um breve texto explicativo que será editado em breve.
+
+D01: Passos 1 e 2 da Prática 2: Reconstrução ideal do sinal amostrado. 
+
+* [Entrega 6_1](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%206.ipynb)
+
+D02: Prática 3: Quantização. 
+
+* [Entrega 6_2](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%206.ipynb)
+
+D03:Prática 4: Multiplexação e demultiplexação (TDM). 
+* [Entrega 6_3] (https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%206.ipynb)
+
 
 ## Entregáveis do hands on 5: 
 
@@ -14,7 +26,7 @@ D02: Passo 3 da Prática 2: recepção AM-DSB (detecção de envoltória).
 
 D03: Passo 3 da Prática 8: Sinal analítico, Transformada de Hilbert e seu uso em demodulação.
 
-* [Entrega 5_3] em finalização...
+* [Entrega 5_3] (https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%205.ipynb)
 
 ## Entregáveis do hands on 3 em Matlab e Python: 
 * [Entrega 3](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%203%20%28Matlab%20e%20Python%29.ipynb)
