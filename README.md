@@ -5,9 +5,9 @@
 ## Entregáveis do hands on 8: 
 
 D01: Passo 4 da Prática 01: Ruído em comunicações analógicas.
-* [Entrega 8_1]
+* [Entrega 8_1](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%208.1.ipynb)
 D02: Passo 2 Prática 02: Ruídos em comunicações digitais. 
-* [Entrega 8_2]
+* [Entrega 8_2](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%208.2.ipynb)
 
 ## Entregáveis do hands on 7: 
 
