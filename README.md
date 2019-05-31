@@ -2,6 +2,21 @@
 
 ## Os entregáveis dos handsons 5 e 6 apresentam apenas o código bruto com os resultados requeridos, sem muito tratamento das informações, sendo necessário um breve texto explicativo que será editado em breve.
 
+## Entregáveis do hands on 8: 
+
+D01: Passo 4 da Prática 01: Ruído em comunicações analógicas.
+* [Entrega 8_1]
+D02: Passo 2 Prática 02: Ruídos em comunicações digitais. 
+* [Entrega 8_2]
+
+## Entregáveis do hands on 7: 
+
+D01: Passos 2 e 3 da Prática 1: PDFs e CDFs de VAs clássicas. 
+* [Entrega 7_1]
+D02: Passo 2 Prática 02: Geração de variáveis aleatórias com uma PDF específica. 
+* [Entrega 7_2]
+## Entregáveis do hands on 6: 
+
 D01: Passos 1 e 2 da Prática 2: Reconstrução ideal do sinal amostrado. 
 
 * [Entrega 6_1](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%206.ipynb)
@@ -26,7 +41,7 @@ D02: Passo 3 da Prática 2: recepção AM-DSB (detecção de envoltória).
 
 D03: Passo 3 da Prática 8: Sinal analítico, Transformada de Hilbert e seu uso em demodulação.
 
-* [Entrega 5_3] (https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%205.ipynb)
+* [Entrega 5_3](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%205.ipynb)
 
 ## Entregáveis do hands on 3 em Matlab e Python: 
 * [Entrega 3](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%203%20%28Matlab%20e%20Python%29.ipynb)
