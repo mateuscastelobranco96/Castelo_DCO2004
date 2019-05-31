@@ -1,6 +1,6 @@
 # Castelo_DCO2004
 
-## Os entregáveis dos handsons 5 e 6 apresentam apenas o código bruto com os resultados requeridos, sem muito tratamento das informações, sendo necessário um breve texto explicativo que será editado em breve.
+## Os entregáveis dos handsons 7 e 8 foram oes recém apresentados junto com atualizações de texto (comentários breves) dos hands-ons' 5 e 6, ponrtanto estão sob processoa de revião para possíveis melhoras.
 
 ## Entregáveis do hands on 8: 
 
@@ -16,11 +16,11 @@ D02: Passo 2 Prática 02: Ruídos em comunicações digitais.
 
 D01: Passos 2 e 3 da Prática 1: PDFs e CDFs de VAs clássicas. 
 
-* [Entrega 7_1]
+* [Entrega 7_1](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%207.1.ipynb)
 
 D02: Passo 2 Prática 02: Geração de variáveis aleatórias com uma PDF específica. 
 
-* [Entrega 7_2]
+* [Entrega 7_2](https://nbviewer.jupyter.org/github/mateuscastelobranco96/Castelo_DCO2004/blob/master/Entrega%207.2.ipynb)
 
 ## Entregáveis do hands on 6: 
 
