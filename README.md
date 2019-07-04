@@ -1,6 +1,6 @@
 # Castelo_DCO2004
 
-## Os entregáveis dos handsons 7 e 8 foram oes recém apresentados junto com atualizações de texto (comentários breves) dos hands-ons' 5 e 6, ponrtanto estão sob processoa de revião para possíveis melhoras.
+## Entregáveis da disciplina de LABORATÓRIO DE PROTOTIPAGEM DE SISTEMAS DE COMUNICAÇÕES 
 
 ## Entrega da quarta prova : 
 
